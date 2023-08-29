@@ -3,7 +3,7 @@ items = ["rock", "paper", "scissors"]
 
 win = "Darn you win!!"
 lose = "HA HA HA you lose!!"
-draw = "Draw? thats crazy, lets go again"rocj
+draw = "Draw? thats crazy, lets go again"
 def play(pos1,pos2,pos3):
     if option == pos1:
         print(response)
