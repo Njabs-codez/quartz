@@ -147,12 +147,7 @@ public class GamePanel extends JPanel implements ActionListener{
 				}
 				break;
 			}
-			if(playing == false) {
-				if(e.getKeyCode()== KeyEvent.VK_ENTER) {
-					startGame();
-					repaint();
-				}
-			}
+			
 			
 		}
 		
